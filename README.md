@@ -1,6 +1,6 @@
-# quizzler
+# Quizzler
 
-qizzler
+Quizzler is an Quiz App
 
 ## Getting Started
 
